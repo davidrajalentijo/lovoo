@@ -1,5 +1,4 @@
 include ':app'
 
-gradle.ext.username = '"lovooTrialUser"'
-gradle.ext.password = '"lovoo#2018"'
+
 
